@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Background Logger App</string>
+    <string name="widget_description">Button click counter with increment functionality</string>
+</resources>
